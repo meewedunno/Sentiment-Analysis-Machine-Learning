@@ -55,6 +55,7 @@ As our main goal is to predict whether a review is positive or negative, so for 
 From the above table we conclude that TFIDF in Random Forest with a optimal Depth of 60 and optimal estimator of 400 have the higher AUC score (74.33%) while BOW has higher accuracy rate in Confusion Matrix of (93%).
 
 **Feature Importance on BOW**
+
 <img width="713" alt="image" src="https://github.com/user-attachments/assets/a49a12ae-7ee7-4288-881c-0fb02ced62e9">
 
 <img width="833" alt="image" src="https://github.com/user-attachments/assets/34d2d394-868c-41d6-a9dd-eeca0bcec028">
