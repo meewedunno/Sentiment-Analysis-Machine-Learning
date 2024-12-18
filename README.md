@@ -1,4 +1,4 @@
-# ELSA SPEAK - SENTIMENT ANALYSIS FROM GOOGLE STORE REVIEWS
+# ELSA SPEAK - SENTIMENT ANALYSIS FROM GOOGLE PLAY STORE REVIEWS
 ## Problem Statement and Data Description
 "ELSA Speak" is a mobile application designed for English learning through interactive speech recognition and pronunciation practice. As the app's popularity grows, understanding user sentiments from their reviews on the Google Play Store becomes crucial for several reasons.
 
